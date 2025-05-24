@@ -1,0 +1,2 @@
+# MIPT_DL_CAPTCHA_Fede_VV_kaggle
+Kaggle Competitions for MIPT_DS_2025
