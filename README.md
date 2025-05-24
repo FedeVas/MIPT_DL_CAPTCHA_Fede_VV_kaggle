@@ -1,5 +1,5 @@
 # MIPT_DL_CAPTCHA_Fede_VV_kaggle
-(Kaggle Competitions for MIPT_DS_2025)[https://www.kaggle.com/competitions/mipt-dl-captcha/overview]
+[Kaggle Competitions for MIPT_DS_2025](https://www.kaggle.com/competitions/mipt-dl-captcha/overview)
 
 ## Структура проекта
 
